@@ -6,7 +6,7 @@ import { useStateContext } from "./contexts/ContextProvider";
 
 import {
   Navbar, Footer, Sidebar, ThemeSettings 
-} from "./component/index";
+} from "./components/index";
 import {
   Ecommerce, Orders, Calendar, Employees, Stacked, Pyramid, Customers, Kanban, Line, Area, Bar, Pie, Financial, ColorPicker, ColorMapping, Editor 
 } from "./pages/index";
